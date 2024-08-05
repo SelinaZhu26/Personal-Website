@@ -1,0 +1,16 @@
+.navbar {
+    height: 100px;
+    margin-bottom: 150px;
+}
+
+.box {
+    height: 300px;
+    width: 300px;
+    background-color: lightgrey;
+    margin-left: 250px;
+}
+
+.name {
+    font-family: serif;
+}
+
